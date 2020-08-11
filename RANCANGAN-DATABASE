@@ -1,0 +1,24 @@
+Program aplikasi yang team kami kembangkan adalah tempat jual beli barang bekas yang khususnya ruang lingkup mahasiswa Universitas Ahmad Dahlan. 
+Baik yang berada di kampus 1,2,3,4 dan 5.
+harapannya nanti akan memberikan kemudahan bagi mahasiswa akhir/lulus untuk menjual barang-barangnya yang masih layak pakai untuk mahasiswa baru maupun mahasiswa lainnya, 
+sehingga proses perputaran barangpun akan dimudahkan bagi seluruh civitas UAD.
+
+Dalam penyususnan rancangan awal DATABASE yang akan kami tampung adalah sebagai berikut :
+
+A. IDENTITAS PENJUAL :
+    1. NAMA
+    2. EMAIL
+    3. NO.HP
+    4. ALAMAT
+    
+    
+B. IDENTITAS BARANG :
+    1. NAMA BARANG
+    2. HARGA JUAL BARANG
+    3. STOK/JUMLAH BARANG
+    4. GAMBAR/KETERANGAN BARANG
+    
+    
+Nantinya database ini dapat diakses oleh seluruh anggota dan digunakan dalam membangun file JSON dan REST-API.
+
+

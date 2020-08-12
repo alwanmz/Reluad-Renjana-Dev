@@ -1,0 +1,55 @@
+Array
+(
+    [0] => Array
+        (
+            [mem_id] => 27
+            [name] => rexa bangkit banyu raga
+            [email] => xaxa@gmail.com
+            [number] => 089965784432
+            [address] => Alun alun kidul
+            [nm_brg] => sepeda
+            [hrg_brg] => 1500000
+            [stok_brg] => 1
+            [gbr_brg] => sepeda.jpg
+        )
+
+    [1] => Array
+        (
+            [mem_id] => 28
+            [name] => darlian ramadhani
+            [email] => darliantc@gmail.com
+            [number] => 087765334982
+            [address] => Kerapyak
+            [nm_brg] => Kamera
+            [hrg_brg] => 2000000
+            [stok_brg] => 1
+            [gbr_brg] => kamera.jpg
+        )
+
+    [2] => Array
+        (
+            [mem_id] => 29
+            [name] => alwan maulana zidane
+            [email] => mamankwawan@gmail.com
+            [number] => 081398736452
+            [address] => Sorosutan
+            [nm_brg] => Kasur
+            [hrg_brg] => 400000
+            [stok_brg] => 1
+            [gbr_brg] => kasur.jpg
+        )
+
+    [3] => Array
+        (
+            [mem_id] => 31
+            [name] => Try wulandari
+            [email] => try@gmail.com
+            [number] => 081343225444
+            [address] => sleman
+            [nm_brg] => sepatu
+            [hrg_brg] => 60000
+            [stok_brg] => 2
+            [gbr_brg] => P.jpg
+        )
+
+)
